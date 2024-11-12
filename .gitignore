@@ -1,0 +1,11 @@
+/DataParse/*
+/node_modules/*
+/include
+/bin/*
+/lib64
+/lib/*
+/output/*
+/SPL.db
+/index.db
+/index.json
+/settings.jsonjk
